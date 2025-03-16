@@ -2,9 +2,11 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-yellow)](https://github.com/your-profile/your-repo/releases)
 
-# Nest JS React TS Boilerplate 🚀
-
-A full-stack boilerplate integrating **Nest JS** and **React TS** with **Authentication**, **Docker**, and **Docker Compose** for seamless development and production environments.
+<div align="center">
+  <h1> Nest JS React TS Boilerplate 🚀</h1>
+  <p>A full-stack boilerplate integrating <b>Nest JS</b> and <b>React TS</b> with <b>Authentication</b>, <br/><b>Docker</b>, and <b>Docker Compose</b> for seamless development and production environments.</p>
+  <img src="https://github.com/user-attachments/assets/2eb031ff-fdb7-42e2-90c6-74d893ed3943" alt="9ZR6vmf"/>
+</div>
 
 ---
 
